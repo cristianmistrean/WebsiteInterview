@@ -1,0 +1,37 @@
+Please create a webpage as per the attached psd design. If you cannot open the file in Photoshop, you can find it as jpg file. For the jpg file, the green elements are callout to mention the intended functionality.
+
+Rules:
+•	The expand must slide toggle (doesn’t matter if the whole page enlarges or just the right section).
+•	Make the fields required upon submit.
+•	Do not change the font face.
+
+BONUS:
+1.	Make the design responsive.
+2.	Submit the form using AJAX post.
+3.	Disable the HTML5 validation.
+
+NOTES:
+1.	Red = ff0000
+2.	Grey = 949494
+3.	Blue = 0096d6
+
+
+
+Text from PSD:
+•	Secure the printers, protect the network.
+•	Know your options.
+Download this Ponemon study, The Insecurity of Network-Connected Printers, for a better understanding of common print security weaknesses within organizations, and the potential costs of security breaches through printers.
+Get the Ponemon study>
+•	Get the Ponemon study, The Insecurity of Network-Connected Printers.
+Please tell us a little bit about yourself, then download this valuable resource.
+•	Required
+•	Business E-mail
+•	First Name
+•	Last Name
+•	Job Seniority
+•	Privacy details
+•	May HP contact you via email or phone?
+•	Yes
+•	No
+•	Submit
+•	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu lacinia nunc, sed scelerisque nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent ac tristique erat, quis faucibus elit. Quisque lobortis efficitur nisl eget pellentesque. Donec semper auctor sem. Nunc laoreet viverra volutpat. In consectetur velit eget pellentesque semper. Morbi interdum ullamcorper diam, tincidunt interdum neque dapibus vitae. Donec imperdiet sed arcu sit amet ullamcorper. Mauris posuere risus leo, sed fermentum neque congue nec. Donec vitae justo massa.
